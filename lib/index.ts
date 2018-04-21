@@ -19,9 +19,8 @@ class MySampleClass1 {
 }
 
 
-
 function main() {
-  // 
+  // Testing.
   let myapp1 = new MySampleClass1();
   myapp1.execute();
 }
