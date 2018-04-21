@@ -1,0 +1,19 @@
+{
+  "name": "MyTsJs1",
+  "description": "A Simple TypeScript to JavaScript starter template",
+  "version": "0.1.0",
+  "main": "./dist/lib/index.js",
+  "dependencies": {
+    "ms-rest": "^2.2.2",
+    "uuid": "^3.1.0"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "eslint": "*",
+    "@types/node": "*",
+    "@types/mocha": "*"
+  },
+  "scripts": {
+    "tsc": "tsc -p tsconfig.json"
+  }
+}
